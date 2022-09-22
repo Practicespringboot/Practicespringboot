@@ -1,6 +1,9 @@
+
+Practice Springboot:-
+
 AGENDA
 =======
-Practice Springboot:-
+
 
 Git commands
 ------------
@@ -16,14 +19,26 @@ Git commands
 APPROACH
 ========
 
-
-
-URL:-
-=====
-  http://localhost:1994/welcome ---->for getting welcome message
-  http://localhost:1994/date    ---->for getting current date and time
-
-
 GIT URL:-
 ========
 https://github.com/Practicespringboot/Practicespringboot
+
+
+URL's:-
+=====
+  http://localhost:1994/welcome 	---->for getting welcome message
+  http://localhost:1994/date   		 ---->for getting current date and time
+  http://localhost:1994/length		 ----->for getting the length of String
+  http://localhost:1994/casesensitive ----->for converting to lowercase to uppercase and viceversa
+  http://localhost:1994/position       ---->for getting position of character in a String
+
+
+
+CORE JAVA PRACTICE
+===================
+
+AGENDA
+-------
+Generting  a file password and verifiying the user input file password
+
+ 
